@@ -1,9 +1,11 @@
-import React from 'react';
+"use client"
+import Counter from "@/components/Counter/Counter";
 
 const HomePage = () => {
+
   return (
     <div>
-      this is my home page
+     <Counter/>
     </div>
   );
 };
