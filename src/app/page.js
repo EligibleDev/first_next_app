@@ -1,11 +1,9 @@
-"use client"
 import Counter from "@/components/Counter/Counter";
 
 const HomePage = () => {
-
   return (
     <div>
-     <Counter/>
+      <Counter />
     </div>
   );
 };
